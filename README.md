@@ -1,0 +1,4 @@
+# merge-test
+````
+"version" = "main"
+````
